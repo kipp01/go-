@@ -14,4 +14,5 @@
 * [并发安全字典（sync.Map）](bing-fa-anquan-zi-dian-ff08-sync-map.md)
 * [\# golang JWT的简单使用](golang-jwtde-jian-dan-shi-yong.md)
 * [go常用的包和站点](goku-ji-lei.md)
+* [HashMap原理和实现](hashmapyuan-li-he-shi-xian.md)
 
