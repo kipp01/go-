@@ -17,4 +17,5 @@
 * [HashMap原理和实现](hashmapyuan-li-he-shi-xian.md)
 * [Go 的 fake-useragent \(模拟浏览器头\)了解一下](go-de-fake-useragent-mo-ni-liu-lan-qi-593429-le-jie-yi-xia.md)
 * [用 Go 来了解一下 Redis 通讯协议](yong-go-lai-le-jie-yi-xia-redis-tong-xun-xie-yi.md)
+* [Go 语言中读写 INI 文件包基本操作](go-yu-yan-zhong-du-xie-ini-wen-jian-bao-ji-ben-cao-zuo.md)
 
